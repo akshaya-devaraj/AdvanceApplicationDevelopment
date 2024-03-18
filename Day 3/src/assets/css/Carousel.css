@@ -1,0 +1,98 @@
+.carousel {
+    position: relative;
+    width: 85%;  
+    margin: 0 auto;
+    padding-top: 5%;
+  }
+  
+  .slides-container {
+    display: flex;
+    transition: transform 0.5s ease;
+    margin-top: 5%;
+    margin-left:25%;
+    width:95%;
+  }
+  
+  .slide {
+    flex: 0 0 auto;
+    width: 80%;
+    display: none;
+  }
+  
+  .slide img {
+    margin-top: 1%;
+    width: 100%;
+    height: 60vh;  
+    margin-bottom: 2%;
+  }
+  
+  .active {
+    display: block;
+  }
+  .gift{
+    display: flex;
+    margin-left: 31%;
+  }
+  .gift h1{
+    margin-top: 6%;
+  }
+  .giftimg{
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .gift-text h3{
+    color: gray;
+    font-weight: lighter;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .home-container{
+    width: 85%;
+    padding-left: 5%;
+  }
+  .home-container h1{
+}
+.home-scroll{
+  margin-left: 1%;
+  margin-top: 2%;
+  max-height: 170px;
+  border: 1p solid black;
+  display: flex;
+  gap: 30px;
+  overflow-x: auto;
+}
+.home-scroll::-webkit-scrollbar{
+  width: 0;
+}
+.home-scroll1::-webkit-scrollbar{
+  width: 0;
+}
+.home-scroll .item{
+  min-width: 150px;
+  height: 150px;
+  line-height: 110px;
+  text-align: center;
+  background-color: antiquewhite;
+  margin-right: 2px;
+  border-radius: 95px;
+}
+.home-scroll1{
+  margin-left: 5%;
+  margin-top: 2%;
+  max-height: 170px;
+  border: 1p solid black;
+  display: flex;
+  gap: 150px;
+  overflow-x: auto;
+}
+.home-scroll1 .item1{
+    min-width: 150px;
+    height: 150px;
+    line-height: 110px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-right: 2px;
+    border-radius: 95px;
+  }  
