@@ -1,0 +1,14 @@
+.containerrd{
+    padding: 20px 20px 0px 20px;
+  }
+  .desimgs{
+    display: flex;
+  }
+  .flex_row{
+    padding-top: 9%;
+    padding-left: 3%;
+    padding-right: 2%;
+  }
+  .clicked {
+    border: 2px solid black;
+  }
