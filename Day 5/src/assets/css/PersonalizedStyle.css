@@ -1,0 +1,73 @@
+.personalized-container {
+    padding: 20px;
+    margin-left: 2%;
+    margin-top: 5%;
+  }
+  .personalized-container h1{
+    margin-left: 2%;
+  }
+  .p-image{
+    border-radius: 20px 20px 0px 0px;
+    width: 320px;
+  }
+  .personalized-items{
+    margin-top: 5%;
+    margin-left: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .personalized-items1{
+    border: 1px solid #CCCCCC;
+    border-radius: 20px;
+    
+  }
+  .p-items1 {
+    padding-left: 10px;
+  }
+  .p-items1 h3{
+      color: #666;
+      padding-bottom: 8px; 
+      padding-top: 2px;   
+  
+  }
+  .price{
+  padding-bottom: 5px;
+  font-weight: bolder;
+  font-size: 18px;
+  }
+  .bottom{
+    display: flex;
+    gap: 70px;
+    padding-bottom: 8%;
+    color: #666;
+  }
+  .filters{
+    margin-left: 2%;
+    margin-top: 3%;
+    display: flex;
+    gap: 5px;
+    text-align: center;
+    color: #2e2d42;
+  }
+  .filters h3{
+    padding-top: 6px;
+    font-weight: lighter;
+  }
+  .filter-items{
+  
+    border-radius: 30px;
+      border: solid 1px #e2e2e2;
+      background-color: #f6f6f6;
+      padding: 8px 16px;
+      font-size: 16.5px;
+      color:#545454;
+      margin-left: 12px;
+      display: flex;
+      align-items: center;
+      flex-direction: row-reverse;
+      white-space: nowrap;
+  }
+  
+  
+  
