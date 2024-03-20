@@ -1,0 +1,78 @@
+*
+{
+    padding: 0;
+    margin:0;
+}
+.left-bar
+{
+    display: flex;
+   flex-direction: column;
+     height: 775px;
+     width: 12%;
+     margin-left: 0%;
+     background-color: #ffffff;
+     margin-top: 0%;
+}
+.left-bar-container
+{
+    height: 775px;
+    background-color: #f8f8f8;
+    width: 80%;
+    
+}
+.left-bar-btn
+{
+   height: 100px;
+   background-color: #a940c1;
+}
+.profile
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px;
+    font-weight: bold;
+    
+}
+.dashboard
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px;
+    font-weight: bold;
+
+}
+.travel
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px;
+    font-weight: bold;
+}
+.contact
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px;
+    font-weight: bold;
+}
+.about
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px; 
+    font-weight: bold;
+}
+.logout
+{
+    font-size: 20px;
+    justify-content: center;
+    color: #03103d;
+    margin-block: -10px; 
+    font-weight: bold;
+
+}

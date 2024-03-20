@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Akshaya",
+      "email":"akshayad449@gmail.com",
+      "password": "akshaya2003"
+    },
+    {
+      "id": "2",
+      "name": "indhu",
+      "email":"indhu@gmail.com",
+      "password": "indhu1234"
+    },
+    {
+      "id": "3",
+      "name": "inika",
+      "email":"inika@gmail.com",
+      "password": "inika908"
+    },
+    {
+      "id": "4",
+      "name": "Archana",
+      "email":"archana@gmail.com",
+      "password": "archana1234"
+    },
+    {
+      "id": "5",
+      "name": "joe",
+      "email":"joe@gmail.com",
+      "password": "joe123456"
+    }
+  ]

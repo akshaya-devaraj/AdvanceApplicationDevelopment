@@ -1,0 +1,55 @@
+.footer-container{
+  border: 1px solid rgb(255, 255, 255);
+  margin-top: 1%;
+  padding: 3%;
+  background-color: rgb(231, 231, 231);
+  width:167%;
+}
+.footer1{
+  padding-left: 7%;
+  width:200%;
+  color: #000000;
+}
+.footer-closure{
+  display: flex;
+  gap: 50px;
+}
+.footer-closure a{
+  text-decoration: none;
+  color: #100c0c;
+  font-weight:500;
+}
+.copyright{
+  background-color: #383937;
+  text-align: center;
+  padding: 6px;
+  width:170%;
+}
+.copyright h4{
+  font-size: medium;
+  color: #000000;
+}
+.heart{
+  color: #dd2745;
+  font-size: 25px;
+}
+.contacts{
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  font-size:16px;
+  padding-top: 10px;
+  padding-left: 4px;
+  gap: 4px;
+  
+}
+.contacts1{
+  display: flex;
+  list-style-type: none;
+  padding-top: 10px;
+  padding-left: 4px;
+  gap: 4px;
+  color: #100c0c;
+}
+
+

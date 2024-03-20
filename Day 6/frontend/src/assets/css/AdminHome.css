@@ -1,0 +1,40 @@
+/* AdminHome.css */
+.admin-container {
+    width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: -50%;
+  }
+  
+  .admin-options {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+  }
+  
+  .admin-option {
+    width: 250px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color:black;
+  }
+  
+  .admin-option h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .admin-option p {
+    font-size: 16px;
+    color: #666;
+  }
+  
